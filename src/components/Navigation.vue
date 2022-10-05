@@ -9,6 +9,12 @@
           <p class="text-2xl">The Local Weather</p>
         </div>
       </RouterLink>
+
+      <div class="flex gap-3">
+        <i
+          class="fa-solid fa-circle-info text-xl hover:text-weather-secondary duration-150 cursor-pointer"
+        ></i>
+      </div>
     </nav>
   </header>
 </template>
