@@ -18,10 +18,14 @@
           class="fa-solid fa-plus text-xl hover:text-weather-secondary duration-150 cursor-pointer"
         ></i>
       </div>
+      <BaseModal>
+        <h1>Hello From Modal</h1>
+      </BaseModal>
     </nav>
   </header>
 </template>
 
 <script setup>
 import { RouterLink } from "vue-router";
+import BaseModal from "./BaseModal.vue";
 </script>
