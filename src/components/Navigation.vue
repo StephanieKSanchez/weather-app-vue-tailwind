@@ -19,7 +19,7 @@
         ></i>
       </div>
       <BaseModal>
-        <h1>Hello From Modal</h1>
+        <!-- <h1>Hello From Modal</h1> -->
       </BaseModal>
     </nav>
   </header>
